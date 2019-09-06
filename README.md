@@ -2,4 +2,4 @@
 
 ### Status
 
-![hill](https://mariussturm.github.io/docs_test/hill_20.png)
+![hill](https://raw.githubusercontent.com/mariussturm/docs_test/master/docs/hill_1.png)
